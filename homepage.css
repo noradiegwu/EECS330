@@ -1,0 +1,72 @@
+/* Remove the navbar's default margin-bottom and rounded borders */
+
+/* Add a gray background color and some padding to the footer */
+footer {
+  /*background-color: #f2f2f2;*/
+  padding: 25px;
+}
+
+button {
+  width: 235px;
+  height: 45px;
+  border-radius: 50px;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+
+}
+
+ul {
+  list-style-type: none;
+}
+
+body {
+  /*background: "https://wallpaperbrowse.com/media/images/html-color-codes-color-tutorials-hero-00e10b1f.jpg";*/
+}
+
+p {
+  color: white;
+}
+
+h1 {
+  color: white;
+}
+
+.jumbotron {
+  height: 610px;
+  background: url("https://wallpaperbrowse.com/media/images/html-color-codes-color-tutorials-hero-00e10b1f.jpg") no-repeat center center;
+}
+
+#tagline {
+  margin-top: 70px;
+  width: 50%;
+  float: left;
+  padding-left: 5%;
+  background-color: Transparent;
+}
+
+#info {
+  width: 50%;
+  float: right;
+}
+
+#get_started{
+    margin-left: 12px;
+    margin-bottom: 7px;
+    background-color: Transparent;
+    border-color: white;
+    border-width: 2px;
+    box-shadow: none;
+    color: white;
+    font: 20px arial, sans-serif;
+}
+
+#login {
+  float: left;
+  margin-left: 12px;
+  background-color: Transparent;
+  border-color: white;
+  border-width: 2px;
+  box-shadow: none;
+  color: white;
+  font: 15px arial, sans-serif;
+}
